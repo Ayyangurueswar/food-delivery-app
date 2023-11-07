@@ -1,0 +1,12 @@
+.NumOfRestro{
+    font-size: 2rem;
+    margin-top: 4%;
+}
+.Restro{
+    font-size: 1.8rem;
+    margin-top: 4%;
+}
+hr{
+    border: 1.5px solid brown;
+    border-radius: 4px;
+}
